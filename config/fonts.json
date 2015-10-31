@@ -1,0 +1,15 @@
+{
+    "fontblending" : false,
+    "fontwidth" : 10,
+    "fontheight" : 10,
+    "fontsize" : 10,
+    "typeface" : "rogue",
+    "map_fontwidth" : 10,
+    "map_fontheight" : 10,
+    "map_fontsize" : 10,
+    "map_typeface" : "rogue",
+    "overmap_fontwidth" : 10,
+    "overmap_fontheight" : 10,
+    "overmap_fontsize" : 10,
+    "overmap_typeface" : "rogue"
+}

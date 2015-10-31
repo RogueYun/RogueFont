@@ -1,0 +1,3 @@
+Back up your cataclysm files, then copy the config and data folders to your cataclysm directory making the appropriate overwrites.
+
+I consider this in the public domain though I know little to nothing about licensing and I doubt a font of this size could be copy-written due to the limitation of possible glyphs one can create on a 10x10 pixel grid. However, if it will help, I hereby declare that any person is welcome to modify and redistribute these files as he or she desires.
